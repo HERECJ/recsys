@@ -1,4 +1,4 @@
-# algorithm for "Improving One-Class Collaborative Filtering via Ranking-based ImplicitRegularizer"
+# Algorithm for "Improving One-Class Collaborative Filtering via Ranking-based ImplicitRegularizer"
 AAAI-2019
 
 This work is based on the framework https://github.com/DefuLian/recsys 
